@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-08-18T17:16:06.727377",
+            "datePublished": "2025-12-04T13:32:43.986470",
             "hasPart": [
                 {
                     "@id": "pe-illumina-simple-virus-calling-and-consensus.ga"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/generic-non-segmented-viral-variant-calling",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -146,7 +146,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.32"
+            "engineVersion": ">=0.75.33"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
